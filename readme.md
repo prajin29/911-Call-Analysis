@@ -47,7 +47,7 @@ Power BI report visualizing:
 - Zip code and township trends
 - Call volume by category
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](images/911_emergency analysis_page-0001.jpg)
 
 ---
 
